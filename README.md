@@ -1,7 +1,7 @@
 # Busy Buffet: Data Analytics Dashboard
 
-**🚀 Live App:** [View the Dashboard on Streamlit](https://singhanart-chaichimplee-atmind-intern-test-buffet-data-analysis.streamlit.app/)  
-**🔗 Direct Link:** `https://singhanart-chaichimplee-atmind-intern-test-buffet-data-analysis.streamlit.app/`
+**Live App:** [View the Dashboard on Streamlit](https://singhanart-chaichimplee-atmind-intern-test-buffet-data-analysis.streamlit.app/)  
+**Direct Link:** `https://singhanart-chaichimplee-atmind-intern-test-buffet-data-analysis.streamlit.app/`
 
 This repository contains a Python and Streamlit dashboard created for the Hotel Amber 85 "Busy Buffet" data analysis assignment. The project analyzes restaurant traffic data to identify operational bottlenecks and evaluate proposed management solutions.
 
@@ -30,12 +30,14 @@ The dashboard processes raw traffic data to analyze wait times, table turnover, 
 * `requirements.txt`: Project dependencies.
 * `*.csv`: Raw data files.
 
+**Live App:**
+[View the Dashboard on Streamlit](https://singhanart-chaichimplee-atmind-intern-test-buffet-data-analysis.streamlit.app/)
 ## How to Run Locally
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+   git clone git@github.com:ewakelian/Atmind_DataAnalysis_Intern_Test.git
+   cd Atmind_DataAnalysis_Intern_Test
    ```
 
 2. **Install dependencies:**
@@ -47,4 +49,3 @@ The dashboard processes raw traffic data to analyze wait times, table turnover, 
    ```bash
    streamlit run app.py
    ```
-# Atmind_DataAnalysis_Intern_Test
